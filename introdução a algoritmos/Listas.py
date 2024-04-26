@@ -6,3 +6,8 @@ for produto in listaProdutos:
 
 for preco in precoProdutos:
     print(preco)
+
+listaProdutos.append("Xbox")
+
+for produto in listaProdutos:
+    print(produto)
