@@ -11,3 +11,8 @@ listaProdutos.append("Xbox")
 
 for produto in listaProdutos:
     print(produto)
+
+oculos = ["Rayban", "Sun", "KarlaOpticas"]
+
+for itensOculos in oculos:
+    print(itensOculos)
