@@ -16,3 +16,7 @@ oculos = ["Rayban", "Sun", "KarlaOpticas"]
 
 for itensOculos in oculos:
     print(itensOculos)
+
+listaStringAndNumeros = ["Maça", 2, 3, "Banana"]
+for lista in listaStringAndNumeros:
+    print(lista)
