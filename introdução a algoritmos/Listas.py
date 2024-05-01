@@ -20,3 +20,5 @@ for itensOculos in oculos:
 listaStringAndNumeros = ["Maça", 2, 3, "Banana"]
 for lista in listaStringAndNumeros:
     print(lista)
+
+oculos.remove(1)
